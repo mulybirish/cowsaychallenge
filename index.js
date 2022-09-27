@@ -1,5 +1,7 @@
 const info = require("./information");
+// import info from ".information";
 let cowsay = require("cowsay");
+console.log(info);
 // console.log(`my name is ${info.name}`);
 
 console.log(
